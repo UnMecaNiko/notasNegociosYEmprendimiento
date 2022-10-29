@@ -1,5 +1,7 @@
 # Curso de Scrum Master | Platzi
 
+[*Regresar a todos los cursos*](/README.md)
+
 Desarrolla los conocimientos y habilidades necesarias para liderar la adopción del marco de trabajo Scrum en cualquier equipo, comprendiendo las responsabilidades del Scrum Master, entendiendo cómo funciona Scrum y la razón de cada uno de sus eventos, roles y artefactos. Aprender a reconocer los diferentes sombreros del Scrum Master e identificar cuándo usar cada uno para hacer intervenciones efectivas.
 
 - Aprenderás cómo funciona Scrum y la razón de cada uno de sus eventos, roles y artefactos.
